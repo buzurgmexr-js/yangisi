@@ -1,2 +1,5 @@
-let a = 1;
-console.log(typeof a);
+const a = 3;
+
+let b = 4;
+
+var c = 40;

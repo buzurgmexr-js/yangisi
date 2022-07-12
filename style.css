@@ -1,8 +1,16 @@
 body {
   margin: 0;
 }
-red {
+.red {
   color: red;
+  color: green;
+  color: orange;
+  color: orange;
+  color: orange;
+  color: dodgerblue;
+  color: orange;
+  color: orange;
+  color: orange;
   background: no-repeat center;
-  opacity: var;
+  opacity: 0;
 }
